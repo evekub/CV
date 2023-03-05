@@ -1,0 +1,67 @@
+body {
+    background:#cb6843;
+    text-align: left;
+    font-family: 'Shantell Sans';
+    color: white;
+    margin: 5px;;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Shantell Sans';
+    font-size: 60px;
+    color: whitesmoke;
+    margin: 0;
+    text-shadow: 0 10px 10px #cb6843 ;
+    
+    
+}
+
+h2 {
+    text-align: left;
+    font-family: 'Shantell Sans';
+color: #B2AC88;
+margin-top: 0;
+}
+
+h3 {text-align: left;
+    color: #B2AC88;
+margin-top: 30px;
+}
+
+a{color:#7f3c23;}
+
+.profilovka { width: 270px;
+height:210px;
+border: 2px solid #B2AC88;
+border-radius: 50px;}
+   
+.nadpis {background-color:#B2AC88;
+    border: 2px;
+    border-radius: 30px;
+margin: 0;
+}
+
+table {border-spacing: 0;}
+
+th,
+td {
+    border-bottom: 1px solid #7f3c23;
+    text-align: left;
+    padding: 2px 0;
+}
+
+.uroven {text-align: right;
+padding: 15px;}
+
+
+section {padding: 10px 10%;}
+
+.kontakt {line-height: 25px;
+}
+
+
+img {float: right;
+}
+
+
